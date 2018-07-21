@@ -1,0 +1,16 @@
+As we can see, for some test images, we always make the damaged area
+a 20x20 square. Here, "x" represents the horizontal coordinates, while "y"
+represents the vertical coordinates. The first number is the coordinate of the top
+left corner, while the second number is the coordinate of the bottom right corner.
+
+lena0.png (512x512): x: 310 330   y: 450 470
+lena1.png (512x512): x: 150 170   y: 300 320
+lena2.png (512x512): x: 150 170   y: 300 320
+lena3.png (512x512): x: 140 160   y: 70 90
+lena4.png (512x512): x: 170 190   y: 70 90
+
+Here are the coordinates of the top left corner and bottom right corner in the
+searching area when we are testing other input images.
+cameraman.png (256x256): x: 20 230   y: 20 230
+lena_ece.png (512x512): x: 30 350   y: 30 350
+letter.png (512x512): x: 20 490   y: 20 490
