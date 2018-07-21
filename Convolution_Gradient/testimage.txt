@@ -1,0 +1,20 @@
+Here are the inputs we use for different test images.
+lena_ece.png (512x512):
+  The starting point: (10, 10)
+  Searching range (in both horizontal and vertical directions): 325
+
+lena3.png (512x512):
+  The starting point: (140, 70)
+  Searching range (in both horizontal and vertical directions): 20
+
+lenablack.png (512x512):
+  The starting point: (309, 449)
+  Searching range (in both horizontal and vertical directions): 52
+
+cameraman.png (256x256):
+  The starting point: (5, 5)
+  Searching range (in both horizontal and vertical directions): 245
+
+letter.png (512x512):
+  The starting point: (2, 2)
+  Searching range (in both horizontal and vertical directions): 500
